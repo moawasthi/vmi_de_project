@@ -1,0 +1,2 @@
+functional_domain,functional_subdomain,flowid,entity,data_source,ingestion_type,subentity
+vmi,BY,fact,delivery,full,DELIVERY_NOTIFICATION
